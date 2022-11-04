@@ -1,0 +1,50 @@
+
+ p{
+    font-family: Arial;
+    margin-top: 0;
+ }
+
+ .vid-title{
+    font-style: italic;
+    font-size: 18px;
+    width: 300px;
+    line-height: 26px;
+    margin-bottom: 5px;
+ }
+
+ .sub-info{
+    font-size: 14px;
+    color: rgb(187, 184, 184);
+    margin-top: 0px;
+    margin-bottom: 20px;
+ }
+
+ .char-name{
+    font-size: 14px;
+    color: rgb(187, 184, 184);
+    margin-bottom: 20px;
+ }
+ .vid-des{
+    font-size: 14px;
+    color: rgb(187, 184, 184);
+    margin-top: 0px;
+    width: 300px;
+    line-height: 22px;  
+    margin-bottom:300px;
+ }
+ .a-text{
+ margin-bottom: 50px;
+ font-size: 14px;
+ background-color: red;
+ color: white;
+ text-align: center;
+ padding-top: 18px;
+ padding-bottom: 18px;
+ }
+ .shop-link{
+    cursor: pointer;
+    margin-left: 3px;
+ }
+ .shop-link:hover{
+text-decoration: underline;
+ }
